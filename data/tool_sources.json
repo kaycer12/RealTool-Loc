@@ -1,0 +1,258 @@
+[
+  {
+    "provider": "Open-Meteo Historical Weather API",
+    "documentation_url": "https://open-meteo.com/en/docs/historical-weather-api",
+    "tool_domains": [
+      "weather"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Nager.Date Holiday API",
+    "documentation_url": "https://date.nager.at/api",
+    "tool_domains": [
+      "holiday"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Crossref REST API",
+    "documentation_url": "https://www.crossref.org/documentation/retrieve-metadata/rest-api/",
+    "tool_domains": [
+      "scholarly"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Open Library Books API",
+    "documentation_url": "https://openlibrary.org/developers/api",
+    "tool_domains": [
+      "book"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Open Food Facts Product API",
+    "documentation_url": "https://openfoodfacts.github.io/openfoodfacts-server/api/",
+    "tool_domains": [
+      "food"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Open-Meteo Air Quality API",
+    "documentation_url": "https://open-meteo.com/en/docs/air-quality-api",
+    "tool_domains": [
+      "air_quality"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "USGS Earthquake Catalog API",
+    "documentation_url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+    "tool_domains": [
+      "earthquake"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "World Bank Country API",
+    "documentation_url": "https://api.worldbank.org/v2/country",
+    "tool_domains": [
+      "country"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "World Bank Indicators API",
+    "documentation_url": "https://api.worldbank.org/v2/country/JPN/indicator/SP.POP.TOTL",
+    "tool_domains": [
+      "indicator"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Gutendex API",
+    "documentation_url": "https://gutendex.com/",
+    "tool_domains": [
+      "gutenberg"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "GitHub REST API",
+    "documentation_url": "https://docs.github.com/en/rest/repos/repos",
+    "tool_domains": [
+      "github"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "PyPI JSON API",
+    "documentation_url": "https://docs.pypi.org/api/json/",
+    "tool_domains": [
+      "pypi"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "npm Registry API",
+    "documentation_url": "https://github.com/npm/registry/blob/main/docs/responses/package-metadata.md",
+    "tool_domains": [
+      "npm"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "crates.io API",
+    "documentation_url": "https://crates.io/data-access",
+    "tool_domains": [
+      "crate"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Wikidata EntityData API",
+    "documentation_url": "https://www.wikidata.org/wiki/Wikidata:Data_access",
+    "tool_domains": [
+      "wikidata"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Wikipedia REST API",
+    "documentation_url": "https://www.mediawiki.org/wiki/API_REST_API",
+    "tool_domains": [
+      "wikipedia"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "OpenStreetMap Nominatim API",
+    "documentation_url": "https://nominatim.org/release-docs/latest/api/Search/",
+    "tool_domains": [
+      "geocode"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Zippopotam.us Postal Code API",
+    "documentation_url": "https://www.zippopotam.us/",
+    "tool_domains": [
+      "postal"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "GBIF Species API",
+    "documentation_url": "https://techdocs.gbif.org/en/openapi/",
+    "tool_domains": [
+      "species"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "MusicBrainz API",
+    "documentation_url": "https://musicbrainz.org/doc/MusicBrainz_API",
+    "tool_domains": [
+      "music"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Frankfurter Exchange Rates API",
+    "documentation_url": "https://www.frankfurter.app/docs/",
+    "tool_domains": [
+      "currency_exchange"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "CoinGecko Simple Price API",
+    "documentation_url": "https://docs.coingecko.com/reference/simple-price",
+    "tool_domains": [
+      "crypto_market"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "WorldTimeAPI",
+    "documentation_url": "https://worldtimeapi.org/",
+    "tool_domains": [
+      "timezone"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Sunrise-Sunset API",
+    "documentation_url": "https://sunrise-sunset.org/api",
+    "tool_domains": [
+      "sunrise_sunset"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Open Notify ISS Location API",
+    "documentation_url": "http://open-notify.org/Open-Notify-API/ISS-Location-Now/",
+    "tool_domains": [
+      "iss_location"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Hipolabs Universities API",
+    "documentation_url": "http://universities.hipolabs.com/",
+    "tool_domains": [
+      "university"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Hacker News Firebase API",
+    "documentation_url": "https://github.com/HackerNews/API",
+    "tool_domains": [
+      "hackernews_item"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "Stack Exchange API",
+    "documentation_url": "https://api.stackexchange.com/docs",
+    "tool_domains": [
+      "stackexchange_question"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "arXiv API",
+    "documentation_url": "https://info.arxiv.org/help/api/index.html",
+    "tool_domains": [
+      "arxiv_paper"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "ClinicalTrials.gov API",
+    "documentation_url": "https://clinicaltrials.gov/data-api/about-api",
+    "tool_domains": [
+      "clinical_trial"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "openFDA Drug Label API",
+    "documentation_url": "https://open.fda.gov/apis/drug/label/",
+    "tool_domains": [
+      "fda_drug_label"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  },
+  {
+    "provider": "GBFS Station Status API",
+    "documentation_url": "https://gbfs.org/specification/reference/",
+    "tool_domains": [
+      "gbfs_station"
+    ],
+    "snapshot_policy": "与公开工具来源关联的人工整理 API-style 静态记录；实验不调用实时 API。"
+  }
+]

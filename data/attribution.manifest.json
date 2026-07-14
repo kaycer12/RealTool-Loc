@@ -1,0 +1,16 @@
+{
+  "dataset_version": "real_tool_attribution_small_v1",
+  "source_split": "outputs/splits/real_tool_mvp_v3_test.jsonl",
+  "source_split_sha256": "21c758fa1e92389ce4457c7e1ba0e12b2619ce108bf9dc8415b09b6527341221",
+  "rows": 448,
+  "conditions": [
+    "json_en",
+    "text_en",
+    "json_ml_natural",
+    "text_ml",
+    "required_json_ml",
+    "operational_json_ml",
+    "benchmark_guided_json_ml"
+  ],
+  "rows_per_condition": 64
+}

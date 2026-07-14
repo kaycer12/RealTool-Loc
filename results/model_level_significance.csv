@@ -1,0 +1,4 @@
+metric,baseline,delta,ci95_low,ci95_high,n,positive,negative,tied,p_value,test,p_holm
+core_pass,extract_localize_verify,0.236572265625,0.164794921875,0.3027404785156249,8,8,0,0,0.0078125,exact_two_sided_sign_test,0.0234375
+hybrid_faithfulness,extract_localize_verify,0.19561688311688313,0.15259740259740262,0.23863636363636365,8,8,0,0,0.0078125,exact_two_sided_sign_test,0.0234375
+naturalness,extract_localize_verify,-0.36282467532467527,-0.5231364989177489,-0.1950689935064936,8,1,7,0,0.0703125,exact_two_sided_sign_test,0.0703125

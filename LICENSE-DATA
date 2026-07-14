@@ -1,0 +1,19 @@
+# Dataset license notice
+
+The benchmark-authored components of this release, including task queries,
+field-role annotations, accepted variants, evaluation contracts, split files,
+and documentation, are made available under the Creative Commons Attribution
+4.0 International license:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Anonymous Authors.
+
+This grant does not apply to facts, text, identifiers, or other material
+associated with the public APIs and tool services represented by the curated
+records. Those portions remain subject to the applicable upstream
+terms, licenses, and attribution requirements. See `THIRD_PARTY_NOTICES.md` and
+the `tool_source` object stored with each task.
+
+No warranty is provided. Users are responsible for confirming that their use
+of upstream material complies with the corresponding provider's terms.

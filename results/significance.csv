@@ -1,0 +1,10 @@
+metric,baseline,n,comparison_only,baseline_only,discordant,delta,p_value,test,p_holm,ci95_low,ci95_high,n_comparison,n_baseline,sampling_note
+core_pass,naive,4096,1366,129,1495,0.302001953125,4.634225599765438e-261,exact_mcnemar_two_sided,1.3902676799296314e-260,0.2861328125,0.318115234375,,,
+naturalness,naive,1232,,,,-0.4226190476190476,4.999750012499375e-05,paired_randomization_two_sided,0.00014999250037498125,-0.4880986201298701,-0.3575487012987013,,,
+hybrid_faithfulness,naive,,,,,0.27922077922077926,1.1018295207262934e-43,independent_two_proportion_z_two_sided,3.3054885621788805e-43,0.22481122213650573,0.33189449046883623,1232,1232,Gemini rows were sampled independently by method; this is not a paired test.
+core_pass,field_constrained,4096,1195,157,1352,0.25341796875,5.870102780602671e-198,exact_mcnemar_two_sided,1.1740205561205343e-197,0.23779296875,0.269287109375,,,
+naturalness,field_constrained,1232,,,,-0.3091179653679654,4.999750012499375e-05,paired_randomization_two_sided,0.00014999250037498125,-0.36553030303030304,-0.2510822510822511,,,
+hybrid_faithfulness,field_constrained,,,,,0.19967532467532473,2.5956765163587194e-23,independent_two_proportion_z_two_sided,5.191353032717439e-23,0.14463199630572515,0.25347732142949037,1232,1232,Gemini rows were sampled independently by method; this is not a paired test.
+core_pass,extract_localize_verify,4096,1134,165,1299,0.236572265625,4.119819639124178e-178,exact_mcnemar_two_sided,4.119819639124178e-178,0.220941162109375,0.251953125,,,
+naturalness,extract_localize_verify,1232,,,,-0.3628246753246753,4.999750012499375e-05,paired_randomization_two_sided,0.00014999250037498125,-0.4205898268398268,-0.3060064935064935,,,
+hybrid_faithfulness,extract_localize_verify,,,,,0.19561688311688313,1.8740729164554872e-22,independent_two_proportion_z_two_sided,1.8740729164554872e-22,0.14056093039463047,0.24945673454108874,1232,1232,Gemini rows were sampled independently by method; this is not a paired test.

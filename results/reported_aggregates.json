@@ -1,0 +1,11 @@
+{
+  "corepass_elv": 0.52490234375,
+  "corepass_protected": 0.761474609375,
+  "corepass_delta_pp": 23.6572265625,
+  "hybrid_elv": 0.44642857142857145,
+  "hybrid_protected": 0.6420454545454546,
+  "hybrid_delta_pp": 19.561688311688316,
+  "naturalness_elv": 3.8380681818181817,
+  "naturalness_protected": 3.4752435064935066,
+  "naturalness_delta": -0.3628246753246751
+}
